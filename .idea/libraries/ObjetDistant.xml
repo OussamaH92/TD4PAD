@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ObjetDistant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ObjetDistant/out/artifacts/ObjetDistant_jar/ObjetDistant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
